@@ -69,6 +69,15 @@
     <ClCompile Include="ShumaMeFunksione.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mean Squared Error and Max Error.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Funksionet e mbinarkuara.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shembull me numerime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="prodhimi.h">
