@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="CiftTek.cpp" />
     <ClCompile Include="CiftTekMeDoWhile.cpp" />
+    <ClCompile Include="Cmimi i vetures.cpp" />
     <ClCompile Include="Formimi i matricave.cpp" />
     <ClCompile Include="Funksionet e mbinarkuara.cpp" />
     <ClCompile Include="Funksionet matematikore.cpp" />
@@ -149,6 +150,7 @@
     <ClCompile Include="Llogaritaje e shpejtesise.cpp" />
     <ClCompile Include="Mean Squared Error and Max Error.cpp" />
     <ClCompile Include="Nota e nxenesit.cpp" />
+    <ClCompile Include="Nota e studentit.cpp" />
     <ClCompile Include="NumratTekRenes.cpp" />
     <ClCompile Include="Numrimi i anetareve te caktuar te matrices.cpp" />
     <ClCompile Include="NumroVleratMesaDheb.cpp" />
